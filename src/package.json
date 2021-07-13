@@ -1,0 +1,14 @@
+{
+  "name": "site-simples-codebuilder",
+  "version": "1.0.0",
+  "description": "Apenas um site simples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato Miawaki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
